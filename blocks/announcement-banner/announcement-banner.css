@@ -1,0 +1,15 @@
+.announcement-banner {
+  padding: 15px 20px;
+  text-align: center;
+}
+
+.announcement-banner-content {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+
+.announcement-banner-content a {
+  font-weight: bold;
+}
