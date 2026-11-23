@@ -1,4 +1,6 @@
 .announcement-banner {
+  background-color: #003366;
+  color: white;
   padding: 15px 20px;
   text-align: center;
 }
@@ -11,5 +13,7 @@
 }
 
 .announcement-banner-content a {
+  color: white;
   font-weight: bold;
+  text-decoration: underline;
 }
