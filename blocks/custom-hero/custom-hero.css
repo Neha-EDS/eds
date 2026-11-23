@@ -54,7 +54,7 @@
 }
 
 /* Mobile responsive */
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .custom-hero .hero-content {
     flex-direction: column;
   }
